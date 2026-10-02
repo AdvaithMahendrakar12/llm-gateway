@@ -1,0 +1,13 @@
+# Binaries
+/bin/
+*.exe
+*.test
+*.out
+
+# Secrets
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
